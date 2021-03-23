@@ -6,7 +6,7 @@
 4. cd into django_project file location
 5. cd into django_project file
 6. run command
-    <python manage.py runserver>
+    -python manage.py runserver
 
 
 #make sure that your python and django are up to date!
